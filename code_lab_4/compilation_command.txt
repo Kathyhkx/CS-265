@@ -1,0 +1,2 @@
+ g++ -op1_lab_4 p1_lab_4.cpp
+ g++ -op2_lab_4 p2_lab_4.cpp
